@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Muhammad Kumail Abbas, an AI and Machine Learning engineer from Multan, Pakistan. I build intelligent systems using cutting-edge techniques such as neural networks and multi-agent frameworks. I hold certifications in AI, ML, and Data Science from Crew AI and ehunar.org, as well as credentials from Google in Data Analytics and Business Intelligence. I leverage Python and modern ML methods to transform data into innovative, real-world solutions.
+I'm Muhammad Kumail Abbas, an AI and Machine Learning Engineer from Pakistan. I build intelligent systems using cutting-edge techniques such as neural networks and multi-agent frameworks. I hold certifications in AI, ML, and Data Science from Crew AI and ehunar.org, as well as credentials from Google in Data Analytics and Business Intelligence. I leverage Python and modern ML methods to transform data into innovative, real-world solutions.
 
 
 ## 🌐 Socials:
